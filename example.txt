@@ -1,0 +1,11 @@
+    <section id="usage">
+      <h2>Uses of RGB in PC Hardware</h2>
+      <div class="intro-box">
+        <p>RGB lighting has become a signature feature in modern gaming and enthusiast PC builds. It serves both aesthetic and functional roles. Here's how RGB is typically applied:</p>
+        <ul>
+          <li><strong>Visual Customization:</strong> Users can match lighting with themes, accessories, or even ambient room lighting.</li>
+          <li><strong>Status Indicators:</strong> Some RGB lights reflect temperatures or load (e.g., color shifts as CPU heats up).</li>
+          <li><strong>Peripheral Enhancement:</strong> Keyboards, mice, and headsets with RGB improve immersion and user experience.</li>
+        </ul>
+      </div>
+    </section>
